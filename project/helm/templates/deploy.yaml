@@ -57,4 +57,4 @@ spec:
         ## the pod will not surpass 128 Mebibytes and 500 miliCPUs.
           limits:
             memory: {{ .Values.resources.limits.memory }}
-            cpu: {{ .Values.resources.limits.path }}
+            cpu: {{ .Values.resources.limits.cpu }}
