@@ -6,7 +6,7 @@ service:
   protocol: TCP
   type: ClusterIP
 image:
-  repository: ddeviesadocker/techtrends
+  repository: deviesadocker/techtrends
   tag: latest
   pullPolicy: Always
 replicaCount: 5
