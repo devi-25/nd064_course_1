@@ -1,0 +1,9 @@
+apiVersion: v1
+name: techtrends
+description: Install Nanodegree techtrends deployment
+keywords:
+- techtrends
+version: 1.0.0
+maintainers:
+- name: deviesa 
+  email: devi.25@gamil.com
